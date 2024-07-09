@@ -16,7 +16,7 @@ nCard is a fully responsive personal portfolio website, responsive for all devic
 
 ## Demo
 
-[View Demo](https://your-demo-link.com)
+[View Demo](https://niteesh18433.github.io/ncardniteeshProtfolio/)
 
 ## Skills
 
@@ -76,6 +76,7 @@ Windows:
 git clone https://github.com/niteesh18433/ncardniteesh.git
 ```
 
+You can add more skills and tools as needed by finding the corresponding badges on [Shields.io](https://shields.io/) and updating the README accordingly.
 ## Contact
 
 If you want to contact me you can reach me at [linkedin](https://www.linkedin.com/in/arigela-niteesh-kumar-a12466249).
@@ -83,9 +84,6 @@ If you want to contact me you can reach me at [linkedin](https://www.linkedin.co
 ## License
 MIT
 
-Make sure to replace `https://your-demo-link.com` with the actual link to your demo, and `https://www.instagram.com/your-instagram-username/` with your actual Instagram profile URL.
-
-You can add more skills and tools as needed by finding the corresponding badges on [Shields.io](https://shields.io/) and updating the README accordingly.
 
 
 

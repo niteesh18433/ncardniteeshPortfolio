@@ -48,11 +48,14 @@ nCard is a fully responsive personal portfolio website, responsive for all devic
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Demo
+# Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## Desktop Demo
 
+![vCard Desktop Demo](./website-demo-image/demo-destop-png.jpg "Desktop Demo")
+# Mobile demo
+![vCard Mobile Demo](./website-demo-image/demo-mob-png2.jpg "Mobile Demo")
+![vCard Mobile Demo](./website-demo-image/demo-mob-png.jpg "Mobile Demo")
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -84,7 +87,6 @@ If you want to contact me you can reach me at [linkedin](https://www.linkedin.co
 ## License
 MIT
 
-Make sure to replace `https://your-demo-link.com` with the actual link to your demo, and `https://www.instagram.com/your-instagram-username/` with your actual Instagram profile URL.
 
 You can add more skills and tools as needed by finding the corresponding badges on [Shields.io](https://shields.io/) and updating the README accordingly.
 

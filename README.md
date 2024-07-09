@@ -83,7 +83,6 @@ If you want to contact me you can reach me at [linkedin](https://www.linkedin.co
 ## License
 MIT
 
-Make sure to replace `https://your-demo-link.com` with the actual link to your demo, and `https://www.instagram.com/your-instagram-username/` with your actual Instagram profile URL.
 
 You can add more skills and tools as needed by finding the corresponding badges on [Shields.io](https://shields.io/) and updating the README accordingly.
 
